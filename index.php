@@ -7,5 +7,4 @@
         $db->close();
 	include "includes/promo.inc.php";
 	include "includes/promo.inc.php";
-	include "includes/footer.inc.php";  include "includes/footer.inc.php";
 ?>
